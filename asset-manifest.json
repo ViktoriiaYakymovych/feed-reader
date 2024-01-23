@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/feed-reader/static/js/main.3ca1a66a.js",
+    "index.html": "/feed-reader/index.html",
+    "main.3ca1a66a.js.map": "/feed-reader/static/js/main.3ca1a66a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3ca1a66a.js"
+  ]
+}
