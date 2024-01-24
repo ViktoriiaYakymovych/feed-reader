@@ -4,7 +4,6 @@ import FeedsList from "../../components/FeedsList/FeedsList";
 import Loader from "../../components/Loader/Loader";
 
 const FeedsListPage = () => {
-  api.fetchFeedsList();
   const [feedsList, setFeedsList] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
